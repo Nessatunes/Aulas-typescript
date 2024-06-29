@@ -1,0 +1,21 @@
+{
+  "name": "aulas-typescript",
+  "version": "1.0.0",
+  "description": "Studying TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Vanessa Antunes",
+    "email": "essatunes@gmail.com",
+    "url": "https://github.com/Nessatunes"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  }
+}
